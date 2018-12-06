@@ -1,0 +1,4 @@
+org/forgerock/openam/auth/nodes/SharedStateChoiceCollectorNode/SharedStateChoiceCollectorNode$SharedStateChoiceCollectorOutcomeProvider.class
+org/forgerock/openam/auth/nodes/SharedStateChoiceCollectorNode/SharedStateChoiceCollectorNode.class
+org/forgerock/openam/auth/nodes/SharedStateChoiceCollectorNode/SharedStateChoiceCollectorNode$Config.class
+org/forgerock/openam/auth/nodes/SharedStateChoiceCollectorNode/SharedStateChoiceCollectorNodePlugin.class
